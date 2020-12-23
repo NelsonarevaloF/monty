@@ -1,10 +1,13 @@
-# C - Doubly linked lists
+# 0x19. C - Stacks, Queues - LIFO, FIFO
 
 in the this project we go to talk about of below topics:
 
-* What is a doubly linked list
-* How to use doubly linked lists
-* Start to look for the right source of information without too much help
+* What do LIFO and FIFO mean
+* What is a stack, and when to use it
+* What is a queue, and when to use it
+* What are the common implementations of stacks and queues
+* What are the most common use cases of stacks and queues
+* What is the proper way to use global variables
 
 # what do these commands
     
